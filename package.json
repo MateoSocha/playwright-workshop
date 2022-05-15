@@ -1,0 +1,20 @@
+{
+  "name": "playwright-workshop",
+  "version": "1.0.0",
+  "description": "Playwright initialization prepared for Mirumee QA Workshop 2.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateoSocha/playwright-workshop.git"
+  },
+  "author": "Mateusz Socha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateoSocha/playwright-workshop/issues"
+  },
+  "homepage": "https://github.com/MateoSocha/playwright-workshop#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.22.0"
+  }
+}
