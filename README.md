@@ -1,8 +1,14 @@
 # playwright-workshop
 Playwright initialization prepared for Mirumee QA Workshop 2.0
 
-First use **npm install** to install playwright
+First use **npm install**
 
-To run Playwright test use **npx playwright test**
+Install Playwright **npm run install**
 
-To show report use **npx playwright show-report**
+To run Playwright test use **npm run test**
+
+To show report use **npm run report**
+
+To run codegen use **npm run codegen**
+
+To run debug use **npm run debug**

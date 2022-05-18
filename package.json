@@ -4,8 +4,11 @@
   "description": "Playwright initialization prepared for Mirumee QA Workshop 2.0",
   "main": "index.js",
   "scripts": {
+    "install": "npx playwright install",
     "test": "npx playwright test",
-    "report": "npx playwright show-report"
+    "report": "npx playwright show-report",
+    "codegen": "npx playwright codegen https://demo.saleor.io/",
+    "debug": "PWDEBUG=1 npx playwright test"
   },
   "repository": {
     "type": "git",
